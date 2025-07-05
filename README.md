@@ -18,5 +18,12 @@ Olá! 👋 Sou **Engenheiro de Software Sênior** com foco em **Backend Kotlin e
 
 - Aberto para colaborações técnicas, debates sobre arquitetura ou oportunidades desafiadoras:
 
-- [linkedIn](https://www.linkedin.com/in/gussouza/)
-- [portfolio](https://gussouzauni.github.io/portfolio/)
+- [www.linkedin.com/in/gussouza](https://www.linkedin.com/in/gussouza/)
+- [gussouzauni.github.io/portfolio](https://gussouzauni.github.io/portfolio/)
+
+## ✨ Por Que Meus Projetos São Diferentes?
+
+### Cada repositório reflete:
+- ✅ Boas práticas de engenharia
+- ✅ Documentação clara (incluindo decisões arquiteturais)
+- ✅ Foco em resolver problemas reais do mundo financeiro
