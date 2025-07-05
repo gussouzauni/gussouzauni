@@ -6,7 +6,8 @@ Olá! 👋 Sou **Engenheiro de Software Sênior** com foco em **Backend Kotlin e
 - 🔧 Desenvolvo **APIs robustas** e **microsserviços** em Kotlin/Spring Boot  
 - ☁️ Arquitetura cloud-first (AWS: ECS, Lambda, DynamoDB, API Gateway)  
 - 💡 Integro sistemas complexos (fraude, análise de dados, onboarding digital)  
-- 📊 Otimizo funis de negócios com dados e monitoramento (Datadog/Grafana)  
+- 📊 Otimizo funis de negócios com dados e monitoramento (Datadog/Grafana)
+- 📱 Também trabalho com Android, e tenhos vários cases profissionais com essa tecnologia.
 
 ## 🏆 Destaques
 
